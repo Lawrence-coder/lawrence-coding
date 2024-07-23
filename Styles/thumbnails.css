@@ -1,0 +1,8 @@
+.Thumbnail {
+  background-color: lightpink;
+  height: 200px;
+  width: 200px;
+  position: static;
+  margin-left: 80px;
+  margin-top: 60px;
+}
